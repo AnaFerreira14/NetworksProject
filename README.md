@@ -24,7 +24,7 @@ On the other hand, each time a node receives a message from a neighbor, it intro
 
 • Anchor nodes have themselves as recovery nodes.
 
-[Example Network](NetworkExample.png)
+[Example Network](NetworkExample.png?raw=true "Example Network")
 
 ## Invocation of the application
 
