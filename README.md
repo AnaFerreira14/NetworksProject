@@ -24,6 +24,8 @@ On the other hand, each time a node receives a message from a neighbor, it intro
 
 • Anchor nodes have themselves as recovery nodes.
 
+[Example Network](NetworkExample.png)
+
 ## Invocation of the application
 
 In order to run the program, you need to compile the code with the following command:
