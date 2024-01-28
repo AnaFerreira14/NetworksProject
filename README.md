@@ -26,7 +26,7 @@ On the other hand, each time a node receives a message from a neighbor, it intro
 
 
 
-![Network Example](https://github.com/AnaFerreira14/NetworksProject/assets/56273313/0f279a97-e415-4512-8d31-b537612f50f9)
+![Network Example](https://github.com/AnaFerreira14/NetworksProject/assets/56273313/0f279a97-e415-4512-8d31-b537612f50f9 "Network Example")
 
 ## Invocation of the application
 
