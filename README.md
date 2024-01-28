@@ -17,8 +17,11 @@ On the other hand, each time a node receives a message from a neighbor, it intro
 ## Topology of the network
 
 • Each edge of the tree is substantiated in a TCP session, with the two nodes that share the edge being neighbors of each other.
+
 • Each node has only one external neighbor, and may have multiple internal neighbors, or none at all.
+
 • In networks with more than one node, there are exactly two nodes, called anchors, that are external neighbors of each other.
+
 • Anchor nodes have themselves as recovery nodes.
 
 ## Invocation of the application
@@ -32,9 +35,13 @@ Then you can invoke the program with the following command:
 ```cot IP TCP regIP regUDP```
 
 cot - name of the program
+
 IP - IP adress of the machine that has the program
+
 TCP - TCP server of the program server
+
 regIP - IP adress of the node server
+
 regUDP - Port of the node server
 
 ## Commands
